@@ -1,0 +1,11 @@
+@relation calisanlar
+@attribute maas integer
+@attribute yas integer
+@attribute departman {muhasebe,'bilgi islem',satis}
+
+@data
+2000,23,'bilgi islem'
+3000,23,satis
+4000,24,muhasebe
+5000,45,satis
+6000,34,'bilgi islem'

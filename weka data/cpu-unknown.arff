@@ -1,0 +1,30 @@
+@relation 'cpu'
+
+@attribute MYCT numeric
+
+@attribute MMIN numeric
+
+@attribute MMAX numeric
+
+@attribute CACH numeric
+
+@attribute CHMIN numeric
+
+@attribute CHMAX numeric
+
+@attribute class numeric
+
+@data
+
+125,256,6000,256,16,128,198
+29,8000,32000,32,8,32,269
+29,8000,32000,32,8,32,220
+29,8000,32000,32,8,32,172
+
+29,8000,16000,32,8,16,132
+
+26,8000,32000,64,8,32,318
+
+23,16000,32000,64,16,32,367
+
+23,16000,32000,64,16,32,489
