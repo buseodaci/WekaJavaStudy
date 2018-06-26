@@ -1,0 +1,12 @@
+@relation calisanlar-weka.filters.unsupervised.attribute.Discretize-B4-M-1.0-Rfirst-precision6
+
+@attribute maas {'\'(-inf-3000]\'','\'(3000-4000]\'','\'(4000-5000]\'','\'(5000-inf)\''}
+@attribute yas numeric
+@attribute departman {muhasebe,'bilgi islem',satis}
+
+@data
+'\'(-inf-3000]\'',23,'bilgi islem'
+'\'(-inf-3000]\'',23,satis
+'\'(3000-4000]\'',24,muhasebe
+'\'(4000-5000]\'',45,satis
+'\'(5000-inf)\'',34,'bilgi islem'
